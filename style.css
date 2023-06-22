@@ -52,7 +52,6 @@ body{
     transition: 0.5s ease-in-out;
     color: #8000ff;
     font-size: 20px;
-    text-transform: capitalize;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     padding:  5px 5px;
